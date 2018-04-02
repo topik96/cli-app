@@ -1,0 +1,30 @@
+{
+  "name": "caporal-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caporal": "^0.10.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-req": "^1.2.2",
+    "excelcsv": "^0.1.2",
+    "express": "^4.16.3",
+    "node-xlsx": "^0.12.0",
+    "pageres": "^4.5.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "simple-excel-js": "^1.0.0",
+    "tinyreq": "^3.3.1",
+    "url-to-image": "^1.0.0",
+    "url-to-screenshot": "^2.0.1",
+    "webshot": "^0.18.0",
+    "x-ray": "^2.3.2",
+    "xlsx": "^0.12.7"
+  }
+}

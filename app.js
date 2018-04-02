@@ -275,7 +275,7 @@ else callScreenshot(args.url,1,options.format)
                     $('.movie-add-info>ul li').each(function(i,element){
                       console.log($(this).text()) 
                     })
-                    logger.info('SYNOPSIS : \t'+$('.movie-synopsis').text())
+                    logger.info('SYNOPSIS : '+($('.movie-synopsis').text()).trim())
                     console.log('\n')
                 }
               })

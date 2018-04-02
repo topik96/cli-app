@@ -1,13 +1,12 @@
 {
-  "name": "caporal-cli",
+  "name": "x",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Topik Mujianto <www.blog.topikmua.com>",
   "license": "ISC",
   "dependencies": {
     "caporal": "^0.10.0",
@@ -26,5 +25,15 @@
     "webshot": "^0.18.0",
     "x-ray": "^2.3.2",
     "xlsx": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topik96/cli-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/topik96/cli-app/issues"
+  },
+  "homepage": "https://github.com/topik96/cli-app#readme",
+  "description": "cli  apps using caporal"
 }

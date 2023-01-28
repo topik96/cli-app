@@ -43,6 +43,7 @@ prog
      tot+=parseInt(num)
   })
   console.log ("ini punya hilya")
+  console.log ("I AM STARVING")
   console.log(tot)
   })
   //SUBSTRACT

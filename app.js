@@ -42,6 +42,7 @@ prog
   args.num.map(num=>{
      tot+=parseInt(num)
   })
+  console.log("yang buat topik mujianto")
   console.log ("ini punya hilya")
   console.log(tot)
   })

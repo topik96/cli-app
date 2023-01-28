@@ -111,6 +111,7 @@ prog
   }
   console.log(result)
 })
+console.log ("i am learnign git")
 
 //5
 .command('random', 'random command')
